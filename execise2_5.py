@@ -14,3 +14,4 @@ for element in my_list:
         elif number < my_list[len(my_list) - 1]:
             my_list.append(number)
 print(my_list)
+

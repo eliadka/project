@@ -1,4 +1,5 @@
 goods = int(input("Введите количество товара "))
+
 i = 1
 my_dict = []
 my_list = []
