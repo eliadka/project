@@ -8,3 +8,5 @@ my_dict = {'name': 'Elena', 'age': 36, 'female':'woman'}
 full_list = [my_int, my_float, my_str, my_list, my_tuple, my_set, my_dict]
 for i in full_list:
     print(f'{i} is {type(i)}')
+    
+    
