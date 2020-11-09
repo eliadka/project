@@ -12,3 +12,4 @@ while i <= goods:
         {'название': my_dict.get('название'), 'цена': my_dict.get('цена'), 'количество': my_dict.get('количество'),
          'ед': my_dict.get('ед')})
 print(my_analys)
+
