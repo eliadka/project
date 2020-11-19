@@ -1,0 +1,4 @@
+Ivanov 12000
+Petrov 21000
+Uvarow 14000
+Bystrova 29000

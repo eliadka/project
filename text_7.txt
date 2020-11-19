@@ -1,0 +1,4 @@
+err   firmas   1000   5000
+sdd qwerty 5000 1000
+acv qwer 10000 5000
+12swee df4 12000 10000
